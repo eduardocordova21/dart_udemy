@@ -1,5 +1,5 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Um aplicativo de linha de comando de amostra com um ponto de entrada em `bin /`, código da biblioteca
+em `lib /` e exemplo de teste de unidade em `test /`.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Criado a partir de modelos disponibilizados pelo Stagehand sob um estilo BSD
+[licença] (https://github.com/dart-lang/stagehand/blob/master/LICENSE).
